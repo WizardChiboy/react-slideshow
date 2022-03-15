@@ -12,9 +12,9 @@
 }
 
 .react-slideshow-container .default-nav {
-  height: 30px;
+  height: 20px;
   background: rgba(255, 255, 255, 0.6);
-  width: 30px;
+  width: 20px;
   border: none;
   text-align: center;
   cursor: pointer;
